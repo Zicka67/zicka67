@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML - CSS - JavaScript - PHP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/guillaume-kezic-329962262/**
+- 📫 How to reach me **guillaume.kezic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
