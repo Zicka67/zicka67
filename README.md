@@ -3,7 +3,7 @@
 
 - 📚 Actually Web Dev Student at Elan Formation
 
-- 🌱 I’m currently learning **HTML - CSS - JavaScript - PHP**
+- 🌱 I’m currently learning **HTML - CSS - JavaScript - PHP - SQL**
 
 - 📫 How to reach me **guillaume.kezic@gmail.com**
 
