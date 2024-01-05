@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillaume (Zicka67)</h1>
 <h3 align="center">A passionate developer web from France</h3>
 
-- 📚 Actually Web Dev Student at Elan Formation
+- 📚 Actually Junior Web Dev Student since 2024
 
 - 🌱 I’m currently learning **HTML - CSS - JavaScript - PHP - SQL - Symfony**
 
